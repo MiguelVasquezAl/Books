@@ -1,0 +1,21 @@
+# Python
+# Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data files (if you want to keep them out of version control)
+# data/libros.csv  # Uncomment if you specifically DON'T want to track your data file
